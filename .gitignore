@@ -1,1 +1,4 @@
+# Checkpoints Files
+/.ipynb_checkpoints
+# System Files
 .DS_Store
