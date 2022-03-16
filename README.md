@@ -16,5 +16,5 @@
 | 1   | A36000 | Lê Anh Đức         | Demo các đoạn code trong chương, tìm thêm các tài liệu để phát triển thêm chủ đề, phát triển code trên 1 bộ dữ liệu khác về chủ đề | 9.5/10   |
 | 2   | A35981 | Nguỵ Thị Ngọc Oanh | Đọc và dịch toàn bộ chương 10, làm slide trình bày                                                                                 | 10/10    |
 | 3   | A35786 | Nguyễn Thu Hường   | Đọc và dịch toàn bộ chương 10, làm slide trình bày, thuyết trình                                                                   | 10/10    |
-| 4   | A34684 | Phan Văn Hưng      | Đọc và dịch toàn bộ chương, làm slide trình bày                                                                                    | 9.5/10   |
+| 4   | A34684 | Phan Văn Hưng      | Đọc và dịch toàn bộ chương 10, làm slide trình bày                                                                                 | 9.5/10   |
 | 5   | A37181 | Phạm Trung Tá      | Đọc và dịch toàn bộ chương 10                                                                                                      | 8/10     |
