@@ -7,7 +7,7 @@
 | Đọc và dịch toàn bộ chương 10                               | 100%              |
 | Làm slide trình bày kết hợp demo các đoạn code trong chương | 100%              |
 | Tìm thêm các tài liệu để phát triển thêm chủ đề             | 100%              |
-| Phát triển code trên 1 bộ dữ liệu khác về chủ đề            | 95%               |
+| Phát triển code trên một bộ dữ liệu khác về chủ đề          | 95%               |
 
 ### Bảng phân công công việc cụ thể trong nhóm
 
